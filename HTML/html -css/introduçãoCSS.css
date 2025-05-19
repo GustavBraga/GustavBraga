@@ -1,0 +1,34 @@
+h1{
+    font-weight: bold;
+}
+
+.destaque {
+    color: rgb(250, 58, 0);
+}
+
+/*.destaque para class
+.#destaque para id*/
+
+.Menu{
+    background-color: white;
+}
+
+.Menu li{
+    list-style-type:  none;
+    display: inline-block;
+    padding: 0;
+    text-align: center;
+}
+
+.Menu a {
+    background-color: #ccc;
+    padding: 16px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.Menu a:hover{
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+}
